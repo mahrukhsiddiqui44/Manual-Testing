@@ -1,14 +1,29 @@
-📂 Manual-Testing
-This folder contains documents related to Manual Software Testing, demonstrating core testing practices used in real-world projects.
+# 📌 Manual QA Portfolio – Mahrukh Siddiqui
 
-📑 Contents:
-Test Plans: High-level strategy outlining scope, schedule, and responsibilities.
+📖 Introduction  
+Welcome to my Manual QA Portfolio! This repository highlights my hands-on experience in manual software testing. It includes test cases, test plans, exploratory testing notes, and structured bug reports. It reflects my ability to test applications systematically and document findings clearly.
 
-Test Cases: Well-structured test scenarios with steps, expected results, and status.
+🎯 Objectives  
+- Demonstrate my QA skills through structured documentation  
+- Showcase ability to write test cases, test plans, and bug reports  
+- Present real-world manual testing examples for demo applications  
 
-Bug Reports: Sample defect reports showcasing how bugs are documented.
+🛠️ Tools & Technologies Used  
+- Google Sheets & Docs – Test Case & Plan Documentation  
+- ClickUp / Asana – Task and Bug Tracking  
+- Microsoft Excel  
+- Postman – For related API test cases (where applicable)  
 
-Checklists: Basic UI/UX and functionality checklists for quick validations.
+📝 Test Cases & Documents  
+This repository includes sample test documents for different applications and scenarios.
 
-🎯 Objective:
-To highlight understanding of test planning, execution, and defect tracking in manual testing environments.
+🔍 How to Navigate This Repo  
+- **TestCases/** → Well-written test cases for various modules  
+- **BugReports/** → Bug reports with steps, severity, and expected vs actual results  
+- **ExploratoryTesting/** → Notes and screenshots from exploratory sessions  
+- **TestPlans/** → Sample test plans with scope, objectives, and timelines  
+
+📧 Contact Me  
+Feel free to reach out for collaboration, questions, or feedback:  
+📧 Email: mahrukhsiddiqui44@gmail.com  
+🔗 LinkedIn: [linkedin.com/in/mahrukhsiddiqui](https://linkedin.com/in/mahrukhsiddiqui)  
